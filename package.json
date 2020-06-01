@@ -1,0 +1,11 @@
+{
+  "name": "may_address_book",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Noelryn/May_address_book.git",
+  "author": "Noelryn <noelgerard.ryan@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^4.7.0"
+  }
+}
